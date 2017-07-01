@@ -7,4 +7,4 @@ export CROSS_COMPILE=../arm-eabi-4.8/bin/arm-eabi- dtbs
 make rockchip_linux_defconfig
 make 0neo-rk3288.img
 
-![](QQG:493340645.jpg)
+![](https://github.com/neophack/yk-k1/blob/master/QQG:493340645.jpg?raw=true)
