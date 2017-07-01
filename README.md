@@ -1,6 +1,6 @@
 # yk-k1
 youku TVbox
-## dts for Linux/arm 4.4.55
+## dts for Linux/arm 4.4.55 kernel
 
 export ARCH=arm
 export CROSS_COMPILE=../arm-eabi-4.8/bin/arm-eabi- dtbs
