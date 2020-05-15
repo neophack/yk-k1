@@ -14,5 +14,4 @@ make 0neo-rk3288.img
 ## This manual is for the development of linux on RK3288 board.
 http://developer.t-firefly.com/thread-12393-1-1.html
 
-## more
-![](./QQG:493340645.jpg)
+
